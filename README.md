@@ -1,2 +1,2 @@
 # python_lessons
-Уроки по Python
+Уроки по Python от Тимофея Хирьянова
