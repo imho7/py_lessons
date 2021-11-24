@@ -1,4 +1,4 @@
-#Лекция 2 файл 1 - Черепашка
+#Лекция 2 файл 1 - Черепашка и цикл for
 
 import turtle
 turtle.shape('turtle')
