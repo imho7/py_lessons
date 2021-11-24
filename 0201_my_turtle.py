@@ -1,3 +1,5 @@
+#Лекция 2 файл 1 - Черепашка
+
 import turtle
 turtle.shape('turtle')
 turtle.shapesize(2)
