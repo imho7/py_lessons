@@ -1,2 +1,2 @@
-# python_lessons
+# py_lessons
 Уроки по Python
